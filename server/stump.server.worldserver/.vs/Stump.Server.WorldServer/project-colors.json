@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a1beab5-1a69-48b6-b064-0f6f372ac23b": {
+      "ProjectGuid": "7a1beab5-1a69-48b6-b064-0f6f372ac23b",
+      "DisplayName": "Stump.Server.WorldServer",
+      "ColorIndex": 0
+    },
+    "8ac12413-bd4f-4c35-b61a-5e5894d33afb": {
+      "ProjectGuid": "8ac12413-bd4f-4c35-b61a-5e5894d33afb",
+      "DisplayName": "Stump.Core",
+      "ColorIndex": 1
+    },
+    "d7bff8ed-065b-4a53-9805-595dfea75a0a": {
+      "ProjectGuid": "d7bff8ed-065b-4a53-9805-595dfea75a0a",
+      "DisplayName": "Stump.DofusProtocol.Enums",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "53c844ec-189b-4803-8128-48ed9964ada8": {
+      "ProjectGuid": "53c844ec-189b-4803-8128-48ed9964ada8",
+      "DisplayName": "Stump.GUI.WorldConsole",
+      "ColorIndex": 3
+    },
+    "b838009e-be0a-463f-a814-73ebf3663785": {
+      "ProjectGuid": "b838009e-be0a-463f-a814-73ebf3663785",
+      "DisplayName": "Stump.Server.AuthServer",
+      "ColorIndex": 4
+    },
+    "011fbafc-7720-4d36-9c59-71bae6163c9e": {
+      "ProjectGuid": "011fbafc-7720-4d36-9c59-71bae6163c9e",
+      "DisplayName": "Stump.Server.BaseServer",
+      "ColorIndex": 5
+    },
+    "33093793-c4ba-4b89-ac82-6e9d00437452": {
+      "ProjectGuid": "33093793-c4ba-4b89-ac82-6e9d00437452",
+      "DisplayName": "Stump.DofusProtocol.D2oClasses",
+      "ColorIndex": 6
+    },
+    "53092d2e-8f37-4889-b6b7-b359e093e3f4": {
+      "ProjectGuid": "53092d2e-8f37-4889-b6b7-b359e093e3f4",
+      "DisplayName": "Stump.DofusProtocol.Messages",
+      "ColorIndex": 7
+    },
+    "10884165-d492-4895-b3ef-32429f7a7f55": {
+      "ProjectGuid": "10884165-d492-4895-b3ef-32429f7a7f55",
+      "DisplayName": "Stump.DofusProtocol.Types",
+      "ColorIndex": 8
+    },
+    "e7406629-e127-4b96-8f29-287947075631": {
+      "ProjectGuid": "e7406629-e127-4b96-8f29-287947075631",
+      "DisplayName": "Stump.ORM",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
