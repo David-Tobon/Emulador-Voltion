@@ -1,4 +1,4 @@
-# Voltion Emulator
+# Voltion Emulator | 2023
 
 This repository contains the source code and supporting tools for a custom server and launcher originally developed for the Dofus 2.51 private server ecosystem.
 
